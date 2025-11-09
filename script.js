@@ -91,3 +91,4 @@ let totalApples = prompt("Enter total number of apples:");
 let applesPerBasket = prompt("Enter number of apples per basket:");
 let baskets = Math.ceil(totalApples / applesPerBasket);
 document.write("Total baskets needed are " + baskets + ".<br>");
+
